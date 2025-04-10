@@ -52,7 +52,7 @@ El objetivo principal de este análisis es determinar la existencia, magnitud y 
 
 ## Estructura del Repositorio
 
-- `RESEUME.md`: Resumen ejecutivo del proyecto.
+- `RESUMEN.md`: Resumen ejecutivo del proyecto.
 - `cdt_colombia_data.csv`: Dataset con información histórica de CDT y tasas de interés.
 - `analisis_cdt_colombia.py`: Script de Python para el análisis y generación de visualizaciones.
 - `analisis_completo_CDT_tasa_BanRep.pdf`: Informe PDF con el analsis integral y los hallazgos.
