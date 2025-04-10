@@ -88,13 +88,6 @@ Escenarios alternativos:
 - [Superintendencia Financiera de Colombia - Estadísticas](https://www.superfinanciera.gov.co/inicio/informes-y-cifras/cifras/establecimientos-de-credito/informacion-periodica/mensual/evolucion-cdt-61326)
 - [DANE - Información Estadística](https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales)
 
-### Bibliotecas Python Utilizadas
-
-- [pandas](https://pandas.pydata.org/docs/) - Análisis y manipulación de datos
-- [numpy](https://numpy.org/doc/) - Operaciones numéricas
-- [matplotlib](https://matplotlib.org/stable/index.html) - Visualización de datos
-- [seaborn](https://seaborn.pydata.org/) - Visualización estadística
-- [scipy](https://docs.scipy.org/doc/scipy/) - Cálculos estadísticos avanzados
 
 ---
 
